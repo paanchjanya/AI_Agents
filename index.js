@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // ---------------- CONFIGURATION ----------------
-const GEMINI_API_KEY = "AIzaSyADPlylqNiZaVkxogqY1qW-6ovO9AIGJCw"; 
+const GEMINI_API_KEY = ""; // PASTE YOU API_KEY(I HAVE USED GEMINI)
 // No Weather API Key needed for Open-Meteo!
 // -----------------------------------------------
 
